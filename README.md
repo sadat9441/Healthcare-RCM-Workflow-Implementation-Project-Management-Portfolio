@@ -2,7 +2,7 @@
 
 ## About this portfolio
 
-This repository contains 18 main Project Management deliverables for an assessment-based Healthcare Revenue Cycle Management (RCM) workflow implementation case study, plus this README. It is prepared to show how a Project Manager can understand a business problem, plan project activities, document requirements, track risks and actions, coordinate testing, review Go-Live readiness and plan project handover.
+This repository contains 19 numbered Project Management deliverables for an assessment-based Healthcare Revenue Cycle Management (RCM) workflow implementation case study, plus this README and an upload checklist. It demonstrates how a Project Manager can understand a business problem, plan project activities, document requirements, track risks and actions, coordinate testing, review Go-Live readiness and plan project handover.
 
 **Important:** This is a learning and portfolio case study. It is not an actual client implementation. The documents do not claim real project execution, completed testing, client approval or production Go-Live.
 
@@ -43,41 +43,25 @@ The schedule is a proposed assessment timeline, not evidence that these activiti
 
 ## Portfolio documents – recommended reading order
 
-1. **Case Study and Process Mapping** – business background, current process, future process, implementation approach and project governance.
-2. **Project Charter** – project objective, scope, stakeholders, deliverables, risks and assumptions.
-3. **16-Week Project Plan** – phase-wise Gantt plan and duration summary.
-4. **BRD and FRD** – business requirements and proposed functional requirements.
+1. **Project Overview** – purpose, business context, current problem and proposed solution.
+2. **BRD and FRD** – business requirements and proposed functional requirements.
+3. **Project Charter** – project objective, scope, stakeholders, deliverables, risks and assumptions.
+4. **Project Case Study** – business background, discovery, process mapping, implementation approach and governance.
 5. **Requirement Discovery MoM** – sample record for the requirement discovery workshop.
 6. **Weekly Project Review MoM** – sample meeting record for progress, priorities, blockers, SLA and decisions.
 7. **Weekly Project Status Report** – sample management update for the Discovery phase.
-8. **Discovery Action Tracker** – action items, owner roles and target project phases.
-9. **RAID Log** – sample risks, assumptions, open points and dependencies.
-10. **Change Request Log** – blank tracker for recording and reviewing change requests.
-11. **Decision Log** – blank tracker for recording project decisions.
-12. **SIT Test Cases** – sample system integration test scenarios; actual results are not recorded.
-13. **UAT Test Cases** – sample business test scenarios; actual results and sign-off are not recorded.
-14. **Defect Log** – blank tracker to record defects found during actual SIT or UAT execution.
-15. **Go-Live Readiness and Recommendation Report** – sample management report showing the evidence required before a Go / No-Go decision.
-16. **Hypercare Support Plan** – proposed post-Go-Live support activities and exit conditions.
-17. **Knowledge Transfer and Handover Plan** – proposed transfer of process knowledge, documents and support ownership.
-18. **Project Closure Report Template** – sample format for reviewing final delivery, outstanding items and lessons learned.
-
-## Suggested repository folders
-
-```text
-Healthcare-RCM-Workflow-Implementation/
-│
-├── README.md
-├── 01_Project_Overview/
-├── 02_Project_Initiation/
-├── 03_Project_Planning/
-├── 04_Requirements/
-├── 05_Project_Governance/
-├── 06_Project_Tracking_And_Controls/
-├── 07_Testing/
-├── 08_Go_Live_Readiness/
-└── 09_Hypercare_And_Closure/
-```
+8. **16-Week Project Plan** – phase-wise Gantt plan and duration summary.
+9. **Discovery Action Tracker** – action items, owner roles and target project phases.
+10. **RAID Log** – sample risks, assumptions, open points and dependencies.
+11. **Change Request Log** – blank tracker for recording and reviewing change requests.
+12. **Decision Log** – blank tracker for recording project decisions.
+13. **SIT Test Cases** – sample system integration test scenarios; actual results are not recorded.
+14. **UAT Test Cases** – sample business test scenarios; actual results and sign-off are not recorded.
+15. **Defect Log** – blank tracker to record defects found during actual SIT or UAT execution.
+16. **Go-Live Readiness and Recommendation Report** – sample management report showing the evidence required before a Go / No-Go decision.
+17. **Hypercare Support Plan** – proposed post-Go-Live support activities and exit conditions.
+18. **Knowledge Transfer and Handover Plan** – proposed transfer of process knowledge, documents and support ownership.
+19. **Project Closure Report Template** – sample format for reviewing final delivery, outstanding items and lessons learned.
 
 ## How to read the sample documents
 
